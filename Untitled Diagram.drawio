@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.6">
   <diagram name="Page-1" id="VLvkBeRrYSE3Y4UppnLz">
-    <mxGraphModel dx="2528" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2887" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,12 +73,12 @@
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-4" value="&lt;strong data-end=&quot;1610&quot; data-start=&quot;1593&quot;&gt;Police Forces&lt;/strong&gt; (Sûreté du Québec, SPVM Montréal, SPAL, etc.)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-96.86999999999999" width="170" height="103.75" as="geometry" />
         </mxCell>
-        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-5" target="2vuA0qgI1Cq_uTjpw-aO-28">
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-5" target="2vuA0qgI1Cq_uTjpw-aO-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="6" />
-              <mxPoint x="690" y="350" />
-              <mxPoint x="520" y="350" />
+              <mxPoint x="690" y="260" />
+              <mxPoint x="-108" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -199,26 +199,23 @@
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-26" value="Police CAD/dispatch centres" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-28" value="Cloud‑based ePCR (ImageTrend) on board" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="370" width="120" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-30" value="On‑aircraft patient‑monitor telemetry (ECG, SpO₂, ventilator data)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="370" width="120" height="120" as="geometry" />
+          <mxGeometry x="500" y="370" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-32" value="Satellite radios/ADS‑B" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="370" width="120" height="120" as="geometry" />
+          <mxGeometry x="670" y="370" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-34" value="24/7 aeromedical coordination centres" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="370" width="120" height="120" as="geometry" />
+          <mxGeometry x="820" y="370" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-36" value="Call‑center dispatch and booking platforms" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="370" width="120" height="120" as="geometry" />
+          <mxGeometry x="960" y="370" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-38" value="Provincial scheduling portals (in some community‑paramedicine programs)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="370" width="120" height="120" as="geometry" />
+          <mxGeometry x="1110" y="370" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-40" value="MPDS/CAD triage software" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="370" width="120" height="120" as="geometry" />
+          <mxGeometry x="1260" y="370" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-43" value="Telephone call‑handling consoles" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="370" width="120" height="120" as="geometry" />
