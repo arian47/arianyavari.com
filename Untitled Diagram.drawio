@@ -1,134 +1,161 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.6">
   <diagram name="Page-1" id="VLvkBeRrYSE3Y4UppnLz">
-    <mxGraphModel dx="2276" dy="1879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2528" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-1" target="2vuA0qgI1Cq_uTjpw-aO-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-440" y="330" />
-              <mxPoint x="-425" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-1" target="2vuA0qgI1Cq_uTjpw-aO-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-380" y="-5" />
-              <mxPoint x="-380" y="270" />
-              <mxPoint x="-290" y="270" />
+              <mxPoint x="-70" y="280" />
+              <mxPoint x="-290" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-1" target="2vuA0qgI1Cq_uTjpw-aO-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-425" y="280" />
-              <mxPoint x="-150" y="280" />
+              <mxPoint x="-90" y="350" />
+              <mxPoint x="-150" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-1" value="&lt;strong data-end=&quot;247&quot; data-start=&quot;202&quot;&gt;Public EMS (Paramedic/Ambulance Services)&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="-85" width="120" height="80" as="geometry" />
+          <mxGeometry x="-130" y="-84.99" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.713;exitY=0.918;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-2" target="2vuA0qgI1Cq_uTjpw-aO-14">
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.61;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-2" target="2vuA0qgI1Cq_uTjpw-aO-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-189" y="1" />
-              <mxPoint x="-189" y="340" />
-              <mxPoint x="-90" y="340" />
-              <mxPoint x="-90" y="370" />
+              <mxPoint x="110" y="20" />
+              <mxPoint x="110" y="340" />
+              <mxPoint y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.733;entryY=0.042;entryDx=0;entryDy=0;exitX=0.22;exitY=0.936;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-2" target="2vuA0qgI1Cq_uTjpw-aO-12">
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.617;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-2" target="2vuA0qgI1Cq_uTjpw-aO-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-267" y="178" />
-              <mxPoint x="-120" y="178" />
-              <mxPoint x="-120" y="370" />
-              <mxPoint x="-122" y="370" />
+              <mxPoint x="95" y="320" />
+              <mxPoint x="-136" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-2" value="&lt;strong data-end=&quot;789&quot; data-start=&quot;749&quot;&gt;Regional Private Ambulance Companies&lt;/strong&gt; (e.g. Dessercom, Paraxion, Ambulances Gilbert)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="-100" width="150" height="110" as="geometry" />
+          <mxGeometry x="20" y="-89.37" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-3" target="2vuA0qgI1Cq_uTjpw-aO-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="30" y="250" />
-              <mxPoint x="135" y="250" />
+              <mxPoint x="290" y="360" />
+              <mxPoint x="135" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-3" value="&lt;strong data-end=&quot;1231&quot; data-start=&quot;1201&quot;&gt;Municipal Fire Departments&lt;/strong&gt; (e.g. Service de sécurité incendie de Montréal, Québec City, Laval)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="-105" width="170" height="115" as="geometry" />
+          <mxGeometry x="200" y="-91.87" width="170" height="115" as="geometry" />
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-4" target="2vuA0qgI1Cq_uTjpw-aO-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="199" />
-              <mxPoint x="220" y="199" />
+              <mxPoint x="470" y="360" />
+              <mxPoint x="260" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-4" target="2vuA0qgI1Cq_uTjpw-aO-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="360" />
-              <mxPoint x="390" y="360" />
+              <mxPoint x="480" y="370" />
+              <mxPoint x="390" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-4" value="&lt;strong data-end=&quot;1610&quot; data-start=&quot;1593&quot;&gt;Police Forces&lt;/strong&gt; (Sûreté du Québec, SPVM Montréal, SPAL, etc.)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-99.36999999999999" width="170" height="103.75" as="geometry" />
+          <mxGeometry x="400" y="-96.86999999999999" width="170" height="103.75" as="geometry" />
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-5" target="2vuA0qgI1Cq_uTjpw-aO-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="395" y="350" />
+              <mxPoint x="690" y="6" />
+              <mxPoint x="690" y="350" />
               <mxPoint x="520" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-5" target="2vuA0qgI1Cq_uTjpw-aO-30">
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.995;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-5" target="2vuA0qgI1Cq_uTjpw-aO-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="6" />
-              <mxPoint x="420" y="310" />
-              <mxPoint x="660" y="310" />
+              <mxPoint x="706" y="340" />
+              <mxPoint x="660" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-5" target="2vuA0qgI1Cq_uTjpw-aO-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="290" />
-              <mxPoint x="790" y="290" />
+              <mxPoint x="670" y="320" />
+              <mxPoint x="790" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-5" target="2vuA0qgI1Cq_uTjpw-aO-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="330" />
+              <mxPoint x="680" y="330" />
               <mxPoint x="920" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-5" value="&lt;strong data-end=&quot;1959&quot; data-start=&quot;1935&quot;&gt;Air‑Medical Services&lt;/strong&gt; (Airmedic, REVA, HélicoSecours)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-95.62" width="170" height="101.25" as="geometry" />
+          <mxGeometry x="600" y="-95.62" width="170" height="101.25" as="geometry" />
+        </mxCell>
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-6" target="2vuA0qgI1Cq_uTjpw-aO-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="895" y="320" />
+              <mxPoint x="1050" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-6" target="2vuA0qgI1Cq_uTjpw-aO-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="260" />
+              <mxPoint x="1190" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-6" value="&lt;strong data-end=&quot;2465&quot; data-start=&quot;2425&quot;&gt;Private Non‑Urgent Medical Transport&lt;/strong&gt; (Dessercom NUPT, Transdev, specialized taxi services)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-95.62" width="170" height="101.25" as="geometry" />
+          <mxGeometry x="810" y="-95.62" width="170" height="101.25" as="geometry" />
+        </mxCell>
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-7" target="2vuA0qgI1Cq_uTjpw-aO-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="290" />
+              <mxPoint x="1330" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.658;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-7" target="2vuA0qgI1Cq_uTjpw-aO-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="300" />
+              <mxPoint x="-270" y="300" />
+              <mxPoint x="-270" y="390" />
+              <mxPoint x="-271" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-7" target="2vuA0qgI1Cq_uTjpw-aO-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1115" y="280" />
+              <mxPoint x="1460" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-7" value="&lt;strong data-end=&quot;2902&quot; data-start=&quot;2874&quot;&gt;911/EMS Dispatch Centres&lt;/strong&gt; (Centre de communication santé)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-95.62" width="170" height="101.25" as="geometry" />
-        </mxCell>
-        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-8" value="9‑1‑1 regional dispatch centres running MPDS (computer‑assisted triage/CAD)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-485" y="390" width="120" height="80" as="geometry" />
+          <mxGeometry x="1030" y="-85" width="170" height="101.25" as="geometry" />
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-10" value="Québec’s RENIR digital public‑safety radio network" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="390" width="120" height="80" as="geometry" />
@@ -142,16 +169,16 @@
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.733;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-2" target="2vuA0qgI1Cq_uTjpw-aO-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-225" y="230" />
-              <mxPoint x="-262" y="230" />
+              <mxPoint x="80" y="310" />
+              <mxPoint x="-262" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.317;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-3" target="2vuA0qgI1Cq_uTjpw-aO-10">
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.419;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-3" target="2vuA0qgI1Cq_uTjpw-aO-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="15" y="250" />
-              <mxPoint x="-312" y="250" />
+              <mxPoint x="280" y="330" />
+              <mxPoint x="-300" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -161,8 +188,8 @@
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-4" target="2vuA0qgI1Cq_uTjpw-aO-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="190" y="310" />
-              <mxPoint x="-280" y="310" />
+              <mxPoint x="460" y="350" />
+              <mxPoint x="-280" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -183,6 +210,29 @@
         </mxCell>
         <mxCell id="2vuA0qgI1Cq_uTjpw-aO-34" value="24/7 aeromedical coordination centres" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-36" value="Call‑center dispatch and booking platforms" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-38" value="Provincial scheduling portals (in some community‑paramedicine programs)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-40" value="MPDS/CAD triage software" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-43" value="Telephone call‑handling consoles" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-45" value="System Used" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="380" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2vuA0qgI1Cq_uTjpw-aO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.608;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2vuA0qgI1Cq_uTjpw-aO-1" target="2vuA0qgI1Cq_uTjpw-aO-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-80" y="270" />
+              <mxPoint x="1343" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
